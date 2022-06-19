@@ -1,0 +1,2 @@
+console.log("\n %c 优世界 %c https://usj.cc \n", "color: #fadfa3; background: #030307; padding:5px 0; font-size:12px;", "background: #fadfa3; padding:5px 0; font-size:12px;");
+console.log("\n %c 友情提示 %c 此主题属于自用主题，不开源不售卖，谢谢 \n", "color: #fadfa3; background: #030307; padding:5px 0; font-size:12px;", "background: #fadfa3; padding:5px 0; font-size:12px;");

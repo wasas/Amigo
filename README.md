@@ -49,4 +49,4 @@ https://github.com/imzql/Amigo/projects/1
 
 ### 鸣谢
 
-油佬，潘先生，等等博友的支持与鼓励
+油佬，潘先生，小杨，小刘同学等等博友的支持与鼓励

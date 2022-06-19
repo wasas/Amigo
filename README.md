@@ -19,8 +19,6 @@
 
 ![image-20220619212517245](https://img.usj.cc/i/2022/06/19/62af23beaa8ea.png)
 
-![image-20220619211202023](https://img.usj.cc/i/2022/06/19/62af20a36171c.png
-
 ![image-20220619211232544](https://img.usj.cc/i/2022/06/19/62af20c21d7a7.png)
 
 #### 归档页面
